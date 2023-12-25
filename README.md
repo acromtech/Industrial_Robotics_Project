@@ -1,4 +1,4 @@
-# UR3 Robot Arm Simulation
+# Reduced UR3 Robot Arm Simulation (RRR)
 
 This Python program simulates the trajectory of a reduce UR3 robot arm (RRR) in 3D space using the Denavit-Hartenberg parameters and motion laws for each segment.
 
